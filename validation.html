@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Online bookings</title>
+<link rel="stylesheet" type="text/css" href="aboutus.css">
+<style>
+
+
+    input[type="email"]:valid{
+        outline: 2px solid green;
+    }
+    input[type="email"]:invalid{
+        outline: 2px solid red;
+    }
+
+input[type="number"]:valid{
+        outline: 2px solid green;
+    }
+    input[type="number"]:invalid{
+        outline: 2px solid red;
+    }
+
+input[type="url"]:valid{
+        outline: 2px solid green;
+    }
+    input[type="url"]:invalid{
+        outline: 2px solid red;
+    }
+
+    label {
+		display:block;
+	}
+			
+            input {
+                width: auto;
+                padding: 12px 20px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+			
+		input[type=text]:focus {
+		background-color: lightblue;
+			}
+
+			input[type=password]:focus {
+				background-color: lightpink;
+			}
+			
+            input[type=submit],input[type=reset] {
+                width: 40%;
+                background-color: #4CAF50;
+                color: white;
+                padding: 14px 20px;
+                margin: 8px 0;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            input[type=submit]:hover {
+                background-color: #45a049;
+            }
+
+            article {
+                border-radius: 10px;
+                background-color: #f2f2f2;
+                padding: 25px;
+		margin:50px 400px;
+            }
+            
+
+</style>
+<script>
+    function getValue() {
+        var color = document.getElementById("myname").value;
+        alert(name);
+	
+	var datetime = document.getElementById("mydatetime").value;
+        alert(datetime);
+	var email = document.getElementById("myemail").value;
+        alert(email);
+	 var month = document.getElementById("mynumber").value;
+        alert(Number);
+
+
+    }
+</script>
+ 
+</head>
+<body>
+
+<header>
+	   <div class="main">
+		  <div class="logo">
+		    <img src="download.jpg">
+          </div>
+        
+           <ul>
+			   <li><a href="index.html">Home</a></li>
+			  <li><a href="salon&spa.html">Salon&spa </a></li>
+			  <li><a href="aboutus.html">About us</a></li>
+			  <li><a href="makeup.html">Makeup</a></li>
+			 
+			  <li><a href="contactus.html">Contact us</a></li>
+		   </ul>
+        </div>
+		
+		
+<article>
+    <form onsubmit="return getValue()">
+        
+		
+		
+	<label for="name">Enter Name:</label>
+        <input type="Name" id="myname"><br>
+		
+		
+	<label for="mydatetime">Choose Date and Time:</label>
+        <input type="datetime-local" id="mydatetime"><br>
+		
+	
+	<label for="myemail">Enter Email Address:</label>
+        <input type="email" id="myemail" required><br>
+
+	
+
+	<label for="mynumber">Enter a Number:</label>
+        <input type="number" min="1" max="15" step="0.5" id="mynumber" required><br>
+		
+
+
+	<label for="myguest">No of guest:</label>
+        <input type="guest" id="myguest"><br>
+		
+
+	 
+
+	 
+
+        <input type="submit" value="SUBMIT"/>
+    </form>
+</article>
+<script>
+var date = new Date();
+
+var day = date.getDate();
+var month = date.getMonth() + 1;
+var year = date.getFullYear();
+
+if (month < 10) month = "0" + month;
+if (day < 10) day = "0" + day;
+
+var today = year + "-" + month + "-" + day;       
+document.getElementById("mydate").value = today;
+
+</script>
+</body>
+</html> 

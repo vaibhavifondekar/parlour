@@ -1,0 +1,63 @@
+*{
+	margin:5;
+	padding:5;
+	font-family:century Gothic;
+}
+
+header{
+	background-image:url(wooden-table-texture.jpg);
+	height:auto;
+	background-size: cover;
+	background-position: center;
+	
+}
+ul{
+	float:left;
+	list-style:none;
+	margin-top:25px;
+}
+ul li{
+	display:inline-block;
+}
+ul li a{
+	text-decoration:bold;
+	color:white;
+	padding:5px 20px;
+	border:1px solid transparent;
+
+}
+ul li a:hover{
+	background-color:pink;
+	color:black;
+}
+
+ul li.active a{	
+    background-color:pink;
+	color:black;
+}
+
+.logo img{
+	float:left;
+	width:150px;
+	height:auto;
+	}
+.main{
+	max-width:1200;
+	margin:auto;
+}
+.title{
+	position:;
+	padding:150px 200px;
+	top:50%;
+	right:50%;
+	transform:translate(50%,-50);
+}
+.title h1{
+	color:white;
+	font-size:40px;
+	color:white;
+	background-color:black;
+	background-size: cover;
+
+	
+}

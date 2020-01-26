@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GORGEOUS BEAUTY SALON & SPA</title>
+        <link rel="stylesheet" type="text/css" href="salon&spa.css">
+     </head>
+  <body>
+	
+	
+	<header>
+	
+	<div class="main">
+	
+	<div class="logo">
+		    <img src="download.jpg">
+          </div>
+		  
+	
+	
+	
+	<ul>
+			  <li><a href="index.html">Home</a></li>
+			  <li><a href="salon&spa.html">Salon&spa </a></li>
+			 <li><a href="aboutus.html">About us</a></li>
+			  <li><a href="makeup.html">Makeup</a></li>
+			  
+			  <li><a href="contactus.html">Contact us</a></li>
+		   </ul>
+		   <br>
+		   <br>
+		   <br>
+	
+
+
+<h1 align="center">SALON FACILITIES</h1>
+<h3><span></span><p><p><strong><b>Sea Shades offers AC and Non AC cottages made of ply board. These cottages are all bright, spacious, clean, equipped with a double bed, table, chairs, fan, mosquito net, attached bathroom with toilet and hot/cold shower and a balcony overlooking the garden area. There is a small kitchen where you can order or make your own meals.</b></strong></p></p></h3>
+
+			<h3 align="center">COTTAGES </h3>
+			<br><br><br><br><br>
+
+			<img src="bath-bomb-spa-tub.jpg" title="bath bomb" height="50%" width="45%"> <img src=".jpg" title="huts" height="50%" width="45%">
+			<img src="combing-hair-at-salon.jpg" title="comb" height="50%" width="45%"> <img src="http://image.jpg" title="Badroom" height="50%" width="45%">
+			<img src="male-stylist-cutting-hair-at-salon.jpg" title="stylist" height="50%" width="45%"><img src="http://p.jpg" title="Showpece" height="50%" width="45%">
+			<br><br><br><br><br><br><br>
+			
+			
+			
+			
+			<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<img src="pink-makeup-by-artist_134x134_crop_center@2x.jpg" title="We serve blow dry facility" height="" width:20%"> <img src="brushing-on-red-lipsick_134x134_crop_center@2x.jpg" style="width:20%">
+		<img src="tattooed-makeup-artist-at-work_134x134_crop_center@2x.jpg"  style="width:20%">
+		
+		
+	  </div>
+	
+	
+	
+	<div class="gallery">
+  <a target="_blank" href="hands-blow-drying-hair.jpg">
+    <img src="hands-blow-drying-hair.jpg" style="display:block;margin-left:auto;margin-right:auto;" width="500" height="300">
+  </a>
+  
+  <div class="desc"><b>We serve blow dry facility</b></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="combing-hair-at-salon.jpg">
+    <img src="combing-hair-at-salon.jpg" width="500" height="300">
+  </a>
+  
+  <div class="desc"><b>Brushing & Combing hair</b></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="male-stylist-cutting-hair-at-salon.jpg">
+    <img src="male-stylist-cutting-hair-at-salon.jpg" style="display:block;margin-left:auto;margin-right:auto;" width="500" height="300">
+  </a>
+ 
+ <div class="desc"><b>Perfect hair cutting facility</b></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="woman-getting-hair-cut-at-salon.jpg">
+    <img src="woman-getting-hair-cut-at-salon.jpg" width="500" height="300">
+  </a>
+  <div class="desc"><b>Stylised cut as per customer wish</b> </div>
+</div>
+<hr>
+<p align="left"><h1>SPA FACILITIES</h1></p>
+
+
+
+
+<div class="gallery">
+  <a target="_blank" href="spa-treatment-room.jpg">
+    <img src="spa-treatment-room.jpg"  style="display:block;margin-left:auto;margin-right:auto;" width="500" height="300">
+  </a>
+  
+  <div class="desc"><b>We have well furnish Spa treatment-room</b></div>
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="spa-facial-treatment.jpg">
+    <img src="spa-facial-treatment.jpg"  width="500" height="300">
+  </a>
+  
+  <div class="desc"><b>Spa facial treatment by our experts</b></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="beauty-product-with-qr.jpg">
+    <img src="beauty-product-with-qr.jpg"  style="display:block;margin-left:auto;margin-right:auto;" width="500" height="300">
+  </a>
+  
+  <div class="desc"><b>Organic Spa oil</b></div>
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="white-blue-bathbomb.jpg">
+    <img src="white-blue-bathbomb.jpg"  width="500" height="300">
+  </a>
+  
+  <div class="desc"><b>We also have bathbomb facility for our customers</b></div>
+</div>
+<br>
+<hr>
+
+<p align="right"><h1>MANICURE</h1></p>
+<a target="_blank" href="stylish-nail-polish.jpg">
+    <img src="stylish-nail-polish.jpg"  width="500" height="300">
+  </a>
+
+<div class="desc"><b>
+When having a Manicure at GORGEOUS you can expect your hands to be soaked in warm water and followed by removing dry cuticles and a cut and shape for your nails. 
+You will enjoy a scrub, hand cream and an indulging hand massage, then you are welcome to choose from our wide variety of colours to paint your nails.<br>
+
+Manicure ……………………………₹750₹<br>
+Express Manicure …………………………₹450<br>
+Cutting, Shaping, Nail polish.</b></div>
+</div>
+
+<br>
+<hr>
+
+
+<p align="right"><h1>PEDICURE</h1></p>
+<a target="_blank" href="a-woman-points-her-toes-while-stretching-her-legs-in-pool.jpg">
+    <img src="a-woman-points-her-toes-while-stretching-her-legs-in-pool.jpg"style="display:block;margin-left:auto;margin-right:auto;"  width="500" height="300">
+  </a>
+
+<div class="desc"><b><font color="black">
+
+When having a Pedicure at GORGEOUS you can expect your feet to be soaked in warm water while removing the Callus (dry skin) either with a foot file, 
+and if we think your feet require a deeper treatment we will use a professional Callus Eliminator. 
+Following this we will remove dry cuticles and cut and shape your toe nails. You will enjoy peeling, 
+cream and an indulging foot massage, then you are welcome to choose from our wide variety of colours to paint your nails.
+Express Pedicure - if you would like a quicker treatment you can choose our express pedicure that includes cutting the toe nails, 
+shaping and nail polish. *Henna art - for an extra cost, to any of our pedicures you could add an amazing Heena art design, 
+traditional to the Indian culture.</br>
+
+
+Pedicure (60 min) ………………………₹1,200<br>
+Soaking, Callus Removal, Cutting, Shaping,<br>
+Cuticle Removal, Peeling, Cream, Massaging,Nail Polish.<br>
+Express pedicure (15 min) ………………₹700<br>
+Cutting, Shaping, Nail Polish.<br>
+For Nail Gel Shellac in tons ₹500 Extra.<br>
+</div>
+
+
+<br>
+<hr>
+
+
+<p align="right"><h1>MASSAGE</h1></p>
+<a target="_blank" href="woman-at-spa-getting-facial.jpg">
+    <img src="woman-at-spa-getting-facial.jpg" style="display:block;margin-left:auto;margin-right:auto;"  width="500" height="300">
+  </a>
+
+<div class="desc"><b><font color="black">
+
+At GORGEOUS  we provide 2 kinds of massage, both done by our own professional therapists.
+ Foot Massage Foot massage is good for you because it relieves pain, stress and fatigue, 
+ it also improves your blood circulation. You would be surprised how it changes your mood and makes you sleep better. 
+ Many cultures have been practicing foot massage for centuries and can be considered as an alternative for medicine and boost your general health.
+ Whether your feet are tired from a long travel or you would just like to treat yourself pop in for a great foot massage at GORGEOUS,
+ our great therapists will make sure your feet are feeling rejuvenated and healthy. Head Massage GORGEOUS Head massage will treat your shoulders, neck, 
+ scalp and face. If you are suffering from headaches, any neck or back pain or general tension then come see us. A good head massage will release pain and tension accumulated by day to day stress or even by traveling for awhile,
+ you will definitely feel better and sleep better.
+We use aromatherapy oils throughout the treatment relaxing and indulging your wellbeing<br>
+
+Foot Massage (30 min) …………………………………………500₹<br>
+Head Massage (20 min) …………………………………………400₹<br></div>
+</div>
+
+
+<br>
+<hr>
+
+<h1>FACIAL TREATMENTS</h1></p>
+<a target="_blank" href="woman-at-spa-getting-facial.jpg">
+    <img src="woman-at-spa-getting-facial.jpg" style="display:block;margin-left:auto;margin-right:auto;"  width="500" height="300">
+  </a>
+
+<div class="desc"><b>
+At GORGEOUS  beauty we can promise you will be spoilt for choice with our extensive range of skincare treatments. 
+Our rejuvenating facials promise radiant and healthy skin by using hydration, 
+ex-foliation and cleansing gold skin radiance At GORGEOUS  we use products from Biofor, 
+which is one of the leading companies in development and manufacturing of therapeutic skin products without a prescription.<br>
+	
+	<strong><h2>Skin Radiance</h2><strong><br>
+	<br>
+Skin Radiance is a great innovation range, which achieves beautiful and radiant skin by purifying, revitalizing and rejuvenating. When you leave GORGEOUS  we can promise a youthful, golden glow.
+Our range includes:
+initial cleaning, skin renewal cream, peeling, relaxing mask, and a Vita serum with aleuronic acid and protective factor.<br>
+
+
+	Price …………………………………………2,500₹<br>
+	</div>
+	
+	
+	
+	  </header>
+	
+  </body>  
+
+
+</html>
