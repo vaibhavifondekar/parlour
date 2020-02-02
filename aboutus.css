@@ -9,31 +9,6 @@ header{
 	 font-family: Comic Sans MS;
 
 }
-ul{
-	float:left;
-	list-style:none;
-	margin-top:25px;
-}
-ul li{
-	display:inline-block;
-}
-ul li a{
-	text-decoration:bold;
-	color:white;
-	padding:5px 20px;
-	font-size:25px
-
-}
-ul li a:hover{
-	background-color:black;
-	color:white;
-}
-
-ul li.active a{	
-    background-color:black;
-	color:white;
-}
-
 .logo img{
 	float:left;
 	width:150px;
@@ -59,7 +34,7 @@ ul li.active a{
 
 	
 }
-}
+
 .navbar {
   overflow: hidden;
   background-color: #333;
